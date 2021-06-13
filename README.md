@@ -1,14 +1,14 @@
-# NoteTaker## 
+## NoteTaker
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="/src/team-profile-generator-page.gif" alt="screenshot" >
+    <img src="./Develop/public/assets/img/note-taker.gif" alt="screenshot" >
 
-  <h3 align="center">Team-Profile-Generator</h3>
+  <h3 align="center">Note-Taker</h3>
 
   <p align="center">
-    An awesome app to create html Team Profile
+    An awesome app to save your notes
   </p>
 </p>
 
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-Team Profile Generator is an application that allows users to build HTML page for their.
+Note-taker is an application that allows users to save their notes.
 
 ### Built With
 
@@ -42,22 +42,22 @@ Team Profile Generator is an application that allows users to build HTML page fo
 - [CSS](https://www.CSS.com/)
 - [Node.Js](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
-- [JEST](https://www.npmjs.com/package/jest)
+- [UNIQUE-ID](https://www.npmjs.com/package/short-unique-id)
+- [EXPRESS](https://www.npmjs.com/package/express)
 
 ## Installation
 
+Clone the application
 Run `npm install` to install the dependencies
-Run `npm install inquirer`
-Run `npm install jest`
+Run `npm install express`
+Run `npm i short-unique-id`
 
 ## Usage
 
+This application is for
 Open the terminal
-Type `node index.js` to run the application.
-You will get a list of job postions choose one and you will get list of questions about the position you chose.
-
-<img src="/src/team-profile-generator.gif" alt="screenshot" >
-<img src="/src/team-profile-generator-test.gif" alt="screenshot" >
+Type `node server.js` to run the application.
+The application is going to start and you can use it by opening your browser=
 
 ## License
 

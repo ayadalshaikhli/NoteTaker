@@ -1,0 +1,27 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "<!-- PROJECT LOGO -->\r <br />\r <p align=\"center\">\r     <img src=\"/src/team-profile-generator-page.gif\" alt=\"screenshot\" >",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayadalshaikhli/NoteTaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayadalshaikhli/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/ayadalshaikhli/NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "short-unique-id": "^4.3.3",
+    "shortid": "^2.2.16"
+  }
+}
