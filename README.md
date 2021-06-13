@@ -6,7 +6,9 @@
     <img src="./Develop/public/assets/img/note-taker.gif" alt="screenshot" >
 
   <h3 align="center">Note-Taker</h3>
-
+    <br />
+    <a href="https://ayad-note-taker.herokuapp.com/"><strong>Explore the Website ON Heroku »</strong></a>
+    <br />
   <p align="center">
     An awesome app to save your notes
   </p>
